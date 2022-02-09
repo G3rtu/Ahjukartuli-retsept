@@ -1,0 +1,52 @@
+@import url('https://fonts.googleapis.com/css2?family=Josefin+Sans:wght@300&family=Redressed&display=swap');
+
+body {
+    background-color: rgba(229, 196, 155, 0.568);
+}
+
+.heading {
+    font-size: 2.5rem; 
+    font-weight: 600;
+    font-family: 'Redressed', cursive;
+    color: rgba(85, 35, 131, 0.966);
+    text-align: center;
+    
+}
+
+.ingredients {
+    border: 1px solid white;
+    width: 50%;
+    margin: 0 auto;
+    font-family: 'Josefin Sans', sans-serif;
+    color: rgb(164, 126, 199);
+
+}
+
+.koostisosad {
+    border: 1px solid white;
+    margin: 0 auto;
+}
+
+.pilt {
+    height: 25%;
+    width: 30%;
+    border-radius: 25px;
+    text-align: center;
+    margin: 1rem;
+    margin-left: 23.5rem;
+    align-items: center;
+}
+
+.juhend {
+    border: 1px solid white;
+    margin: 0 auto;
+}
+
+
+}
+.footer {
+    text-align: center;
+    font-size: 1.5rem;
+    color: rgb(121, 56, 182);
+}
+
